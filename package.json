@@ -1,0 +1,9 @@
+{
+  "name": "ai-study-strategist",
+  "version": "1.0.0",
+  "description": "AI Study Strategist MVP",
+  "scripts": {
+    "start:backend": "cd backend && npm install && npm start",
+    "start:frontend": "cd frontend && npm install && npm run dev"
+  }
+}
